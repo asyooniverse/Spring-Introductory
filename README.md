@@ -1,1 +1,1 @@
-# SpringStudy2
+# 스프링 입문 공부
