@@ -2,7 +2,6 @@ package com.example.springproject.service;
 
 import com.example.springproject.domain.Member;
 import com.example.springproject.repository.MemberRepository;
-import com.example.springproject.repository.MemoryMemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
